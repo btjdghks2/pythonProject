@@ -13,7 +13,7 @@ def print_hi(name):
     middle = 'Hey' * 3 + '\n'
     end = 'Goodbye.'
     print(start + start + middle + end)
-
+    print('exam!')
 
 
 # Press the green button in the gutter to run the script.
